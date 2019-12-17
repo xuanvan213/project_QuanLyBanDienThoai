@@ -1,0 +1,16 @@
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmDanhMucNV.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmDMKH.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmHangSX.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmLogin.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmMain.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmSanPham.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.frmHoaDonBan.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.Properties.Resources.resources
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.csproj.GenerateResource.cache
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.csproj.CoreCompileInputs.cache
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\bin\Debug\DoAn_Nhom.exe.config
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\bin\Debug\DoAn_Nhom.exe
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\bin\Debug\DoAn_Nhom.pdb
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.exe
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.pdb
+E:\học kỳ 3\Lập Trình ứng dụng\DoAn_Nhom\DoAn_Nhom\obj\Debug\DoAn_Nhom.csprojAssemblyReference.cache
